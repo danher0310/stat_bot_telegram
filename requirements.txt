@@ -1,0 +1,2 @@
+environ == 1.0
+python-telegram-bot == 13.14 
